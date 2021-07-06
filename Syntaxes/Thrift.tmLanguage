@@ -5,6 +5,7 @@
 	<key>fileTypes</key>
 	<array>
 		<string>thrift</string>
+		<string>frugal</string>		
 	</array>
 	<key>keyEquivalent</key>
 	<string>^~T</string>
